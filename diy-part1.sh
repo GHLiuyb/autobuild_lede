@@ -18,7 +18,7 @@
 
 git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
 git clone https://github.com/jefferymvp/luci-app-koolproxyR package/luci-app-koolproxyR
-git clone https://github.com/openwrt/luci/tree/master/applications package/
+git clone https://github.com/openwrt/luci/tree/master/applications package/applications
 git clone https://github.com/immortalwrt/luci-app-unblockneteasemusic package/luci-app-unblockmusic
 git clone https://github.com/pymumu/luci-app-smartdns package/luci-app-smartdns
 git clone https://github.com/kuoruan/luci-app-kcptun package/luci-app-kcptun
