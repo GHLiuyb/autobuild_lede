@@ -35,7 +35,7 @@ git clone https://github.com/AlexZhuo/luci-app-shadowsocksR package/luci-app-sha
 git clone https://github.com/kuoruan/luci-app-frpc package/luci-app-frpc
 git clone https://github.com/honwen/luci-app-aliddns package/luci-app-aliddns
 git clone https://github.com/lisaac/luci-app-diskman package/luci-app-diskman
-#git clone  package/
+git clone https://github.com/project-lede/luci-app-godproxy package/luci-app-godproxy
 #git clone  package/
 #git clone  package/
 #git clone  package/
