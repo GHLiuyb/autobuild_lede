@@ -17,6 +17,14 @@
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 
 git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
+git clone https://github.com/jerrykuku/luci-app-jd-dailybonus package/luci-app-jd-dailybonus
+git clone https://github.com/LuttyYang/luci-theme-material package/luci-theme-material
+git clone https://github.com/project-lede/luci-app-godproxy package/luci-app-godproxy
+git clone https://github.com/ntlf9t/luci-app-dnspod package/luci-app-dnspod
+git clone https://github.com/apollo-ng/luci-theme-darkmatter package/luci-theme-darkmatter
+git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom package/luci-theme-infinityfreedom 
+git clone https://github.com/openwrt-develop/luci-theme-atmaterial package/luci-theme-atmaterial
+git clone https://github.com/tano-systems/luci-theme-tano package/luci-theme-tano
 #git clone https://github.com/jefferymvp/luci-app-koolproxyR package/luci-app-koolproxyR
 #git clone https://github.com/openwrt/luci/tree/master/applications package/applications
 #git clone https://github.com/immortalwrt/luci-app-unblockneteasemusic package/luci-app-unblockmusic
@@ -29,14 +37,10 @@ git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
 #git clone https://github.com/frainzy1477/luci-app-clash package/luci-app-clash
 #git clone https://github.com/kuoruan/luci-app-v2ray package/luci-app-v2ray
 #git clone https://github.com/maxlicheng/luci-app-ssr-plus package/luci-app-ssr-plus
-git clone https://github.com/jerrykuku/luci-app-jd-dailybonus package/luci-app-jd-dailybonus
-git clone https://github.com/LuttyYang/luci-theme-material package/luci-theme-material
 #git clone https://github.com/AlexZhuo/luci-app-shadowsocksR package/luci-app-shadowsocksR
-git clone https://github.com/kuoruan/luci-app-frpc package/luci-app-frpc
+#git clone https://github.com/kuoruan/luci-app-frpc package/luci-app-frpc
 #git clone https://github.com/honwen/luci-app-aliddns package/luci-app-aliddns
 #git clone https://github.com/lisaac/luci-app-diskman package/luci-app-diskman
-git clone https://github.com/project-lede/luci-app-godproxy package/luci-app-godproxy
-git clone https://github.com/ntlf9t/luci-app-dnspod package/dnspod
 #git clone  package/
 #git clone  package/
-
+#git clone  package/
