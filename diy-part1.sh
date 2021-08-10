@@ -25,7 +25,7 @@ git clone https://github.com/apollo-ng/luci-theme-darkmatter package/luci-theme-
 git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom package/luci-theme-infinityfreedom 
 git clone https://github.com/openwrt-develop/luci-theme-atmaterial package/luci-theme-atmaterial
 git clone https://github.com/tano-systems/luci-theme-tano package/luci-theme-tano
-#git clone https://github.com/jefferymvp/luci-app-koolproxyR package/luci-app-koolproxyR
+git clone https://github.com/jefferymvp/luci-app-koolproxyR package/luci-app-koolproxyR
 #git clone https://github.com/openwrt/luci/tree/master/applications package/applications
 #git clone https://github.com/immortalwrt/luci-app-unblockneteasemusic package/luci-app-unblockmusic
 #git clone https://github.com/pymumu/luci-app-smartdns package/luci-app-smartdns
