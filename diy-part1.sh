@@ -41,6 +41,6 @@ git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app
 #git clone https://github.com/kuoruan/luci-app-frpc package/luci-app-frpc
 #git clone https://github.com/honwen/luci-app-aliddns package/luci-app-aliddns
 #git clone https://github.com/lisaac/luci-app-diskman package/luci-app-diskman
-#git clone  package/
-#git clone  package/
+#git clone https://github.com/AlexZhuo/luci-app-shadowsocksR package/luci-app-shadowsocksR
+#git clone https://github.com/GHLiuyb/luci-app-ssr-plus.git package/luci-app-ssr-plus
 #git clone  package/
