@@ -27,7 +27,7 @@ git clone https://github.com/openwrt-develop/luci-theme-atmaterial package/luci-
 git clone https://github.com/tano-systems/luci-theme-tano package/luci-theme-tano
 git clone https://github.com/jefferymvp/luci-app-koolproxyR package/luci-app-koolproxyR
 #git clone https://github.com/openwrt/luci/tree/master/applications package/applications
-#git clone https://github.com/immortalwrt/luci-app-unblockneteasemusic package/luci-app-unblockmusic
+#git clone https://github.com/xiaorouji/openwrt-passwall.git package/luci-app-passwall
 git clone https://github.com/pymumu/luci-app-smartdns package/luci-app-smartdns
 #git clone https://github.com/kuoruan/luci-app-kcptun package/luci-app-kcptun
 #git clone https://github.com/jerrykuku/luci-theme-argon package/luci-theme-argon
