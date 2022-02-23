@@ -26,8 +26,8 @@ git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom package
 git clone https://github.com/openwrt-develop/luci-theme-atmaterial package/luci-theme-atmaterial
 git clone https://github.com/tano-systems/luci-theme-tano package/luci-theme-tano
 git clone https://github.com/jefferymvp/luci-app-koolproxyR package/luci-app-koolproxyR
-#git clone https://github.com/maxlicheng/luci-app-ssr-plus.git package/luci-app-ssr-plus
-#git clone https://github.com/xiaorouji/openwrt-passwall.git package/luci-app-passwall
+git clone https://github.com/awesome-openwrt/app-ssr-plus.git package/luci-app-ssr-plus
+git clone https://github.com/xiaorouji/openwrt-passwall.git package/luci-app-passwall
 git clone https://github.com/pymumu/luci-app-smartdns package/luci-app-smartdns
 #git clone https://github.com/kuoruan/luci-app-kcptun package/luci-app-kcptun
 #git clone https://github.com/jerrykuku/luci-theme-argon package/luci-theme-argon
