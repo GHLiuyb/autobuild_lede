@@ -29,7 +29,11 @@ git clone https://github.com/jefferymvp/luci-app-koolproxyR package/luci-app-koo
 git clone https://github.com/awesome-openwrt/app-ssr-plus.git package/luci-app-ssr-plus
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/luci-app-passwall
 git clone https://github.com/pymumu/luci-app-smartdns package/luci-app-smartdns
-git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git
+git clone https://github.com/jerrykuku/luci-theme-argon.git
+git clone https://github.com/messense/aliyundrive-webdav
+git clone https://github.com/linkease/istore
+git clone https://github.com/linkease/istore-ui
+git clone https://github.com/lisaac/luci-app-dockerman
 #git clone https://github.com/kuoruan/luci-app-kcptun package/luci-app-kcptun
 #git clone https://github.com/jerrykuku/luci-theme-argon package/luci-theme-argon
 #git clone https://github.com/lisaac/luci-app-dockerman package/luci-app-dockerman
