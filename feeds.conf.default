@@ -5,3 +5,4 @@ src-git small https://github.com/kenzok8/small.git
 src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git other https://github.com/kenzok8/openwrt-packages.git
 src-git oldpackages https://github.com/openwrt/luci
+src-git ispackages https://github.com/linkease/istore-packages
