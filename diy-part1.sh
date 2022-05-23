@@ -17,9 +17,9 @@
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 
 
-git clone https://github.com/linkease/istore package/istore
-git clone https://github.com/linkease/istore-ui package/istore-ui
-git clone https://github.com/jefferymvp/luci-app-koolproxyR package/luci-app-koolproxyR
+#git clone https://github.com/linkease/istore package/istore
+#git clone https://github.com/linkease/istore-ui package/istore-ui
+#git clone https://github.com/jefferymvp/luci-app-koolproxyR package/luci-app-koolproxyR
 #git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
 #git clone https://github.com/jerrykuku/luci-app-jd-dailybonus package/luci-app-jd-dailybonus
 #git clone https://github.com/LuttyYang/luci-theme-material package/luci-theme-material
