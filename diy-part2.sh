@@ -12,6 +12,6 @@
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
-sed -i 's/luci-theme-bootstrap/luci-theme-argon/' feeds/luci/collections/luci/Makefile
-sed -i 's/192.168.1.1/10.10.10.251/g' package/base-files/files/bin/config_generate
-sed -i 's/192.168./10.10./g' package/base-files/files/bin/config_generate
+#sed -i 's/luci-theme-bootstrap/luci-theme-argon/' feeds/luci/collections/luci/Makefile
+#sed -i 's/192.168.1.1/10.10.10.251/g' package/base-files/files/bin/config_generate
+#sed -i 's/192.168./10.10./g' package/base-files/files/bin/config_generate
